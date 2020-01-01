@@ -1,3 +1,5 @@
+This repository is just for testing GitHub Actions and researching if it's useful
+
 # DarkCloud - Dark mode for SoundCloud
 ![users](https://img.shields.io/chrome-web-store/d/mjicdmidmifkppilbbcanmnljpffmfmh.svg?label=users) ![Mozilla Add-on](https://img.shields.io/amo/rating/darkcloud-original) ![GitHub](https://img.shields.io/github/license/iamdiogo/darkcloud)
 
